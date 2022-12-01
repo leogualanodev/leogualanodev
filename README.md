@@ -30,6 +30,20 @@ Mon pc Ressemble à ca actuellement .... 😅
 
 ![ligne de code](https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif)
 
+
+
+# Work in progress .. 😁
+
+- je travaille actuellement sur mon portfolio 
+
+- je me forme sur le javascript et m'amuse avec des petits projets .. 😊
+
+# Fun facts ... 👌
+
+- j'étais carreleur dans une ancienne vie ... 
+
+
+
 <!--
 **leogualanodev/leogualanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
