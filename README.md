@@ -18,7 +18,7 @@ Adresse mail : leogualano.dev@gmail.com
 - Gifs 🤣
 
 
-## Quelques GIFS marrant .. 
+## Quelques GIFS marrant .. 🤣
 
 
 
@@ -28,7 +28,7 @@ Adresse mail : leogualano.dev@gmail.com
 Mon pc Ressemble à ca actuellement .... 😅
 
 
-![](https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif)
+![ligne de code](https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif)
 
 <!--
 **leogualanodev/leogualanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
