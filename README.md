@@ -1,5 +1,7 @@
 ### Hello I'm léo 👋
 
+![](/github/watchers/:leogualanodev/:repo?label=Watch)
+
 
 # Jeune Développeur en formation, passioné par le domaine de l'informatique. Actuellement en formation au développement front-end (html5, CSS3, Javascript) et prochainement le développement back-end(SQL, php).
 
