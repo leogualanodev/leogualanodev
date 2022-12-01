@@ -1,20 +1,29 @@
-### Hi there 👋
+### Hello I'm léo 👋
 
 
-# Jeune Développeur en formation, passioné par le domaine de l'informatique. Actuellement en train de se former au développement front-end (html5, CSS3, Javascript) et prochainement le développement back-end(SQL, php).
+# Jeune Développeur en formation, passioné par le domaine de l'informatique. Actuellement en formation au développement front-end (html5, CSS3, Javascript) et prochainement le développement back-end(SQL, php).
 
 
 ## Me contacter 😁 ?
 Adresse mail : leogualano.dev@gmail.com
-linkdin: 
+
 
 
 ## Mes passions 😁 !
 - Informatique 
-- BasketBall 
-- jeux vidéos 
+- BasketBall 🏀
+- jeux vidéos 👌 
 - musique 🎶
-- manga 
+- manga 😍
+- Gifs 🤣
+
+
+## Quelques GIFS marrant .. 
+
+
+
+
+![je surrrrrrf](https://media.giphy.com/media/dwmNhd5H7YAz6/giphy.gif)
 
 <!--
 **leogualanodev/leogualanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
