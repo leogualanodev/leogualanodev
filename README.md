@@ -25,6 +25,9 @@ Adresse mail : leogualano.dev@gmail.com
 
 ![je surrrrrrf](https://media.giphy.com/media/dwmNhd5H7YAz6/giphy.gif)
 
+
+![](https://giphy.com/gifs/future-careers-uniblog-12W5Sg2koWYnwA)
+
 <!--
 **leogualanodev/leogualanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
