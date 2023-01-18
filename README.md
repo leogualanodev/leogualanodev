@@ -40,6 +40,8 @@ Mon pc Ressemble à ca actuellement .... 😅
 
 - je me forme sur le javascript et m'amuse avec des petits projets .. 😊
 
+- Decouverte du developpement back-end d'une application 
+
 # Fun facts ... 👌
 
 - j'étais carreleur dans une ancienne vie ... 
