@@ -3,11 +3,11 @@
 ![](/github/watchers/:leogualanodev/:repo?label=Watch)
 
 
-# Jeune Développeur en formation, passioné par le domaine de l'informatique. Actuellement en formation au développement front-end (html5, CSS3, Javascript) et prochainement le développement back-end(SQL, php).
+# Jeune Développeur en formation, passioné par le domaine de l'informatique. 
 
 
 ## Me contacter 😁 ?
-Adresse mail : leogualano.dev@gmail.com
+Adresse mail : leo.gualano.dev@gmail.com
 
 
 
